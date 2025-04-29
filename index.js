@@ -37,7 +37,7 @@ app.listen(port, () => {
   console.log('\x1b[36m[ SERVER ]\x1b[0m', '\x1b[32m SH : http://localhost:' + port + ' ✅\x1b[0m');
 });
 
-const statusMessages = ["🎧 Olympus Network", "🎮 Trabalhando em Olympus 2"];
+const statusMessages = ["🎧 Eu to trabalhando", "🎮 Vem jogar Naruto Adventure"];
 const statusTypes = [ 'dnd', 'idle'];
 let currentStatusIndex = 0;
 let currentTypeIndex = 0;
